@@ -17,7 +17,7 @@
 `` 🌏 Workflow 🌏 `` :
 ``
 JIRA ➕ SCRUM POKER ➕ GIT ➕ DISCORD 
-`` ‎ ‎ <a href="https://www.youtube.com/watch?v=TYvwSEom6s8&t=373s" ><img align="center" src="https://img.shields.io/badge/PROJECT%20PREVIEW-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+`` ‎ ‎ <a href="https://www.youtube.com/watch?v=TYvwSEom6s8&t=0s" ><img align="center" src="https://img.shields.io/badge/PROJECT%20PREVIEW-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 					 
 | Part | Technologies |
 | --- | --- |
