@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Miroslav Hlisnikowski</h1>
+<h1 align="center">Hi 👋, I'm  $${\color{green}Miroslav \space \color{orange}Hlisnikowski}$$ </h1>
+<div style="background-color:red;">
 <h3 align="center">A passionate fullstack/game developer from Czech Republic. <a  href="https://linkedin.com/in/miroslav-hlisnikowski-b0aa72216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miroslav-hlisnikowski-b0aa72216/" height="30" width="30" /></a></h3>
+<p align="center";"><em>I am also a fresh alumni</em> <img style="height:30px" src="https://uploads-ssl.webflow.com/5a8e9877a63d300001a1b0bc/5a8e9877a63d300001a1b1da_green_fox_logo_full.svg"> student.</p>
 
-- 📫 How to reach me **hlisnikowski.miroslav@gmail.com** 
+```java
+```
+
+> __Note__  📧 How to reach me **hlisnikowski.miroslav@gmail.com** 
 
 
 <h3 style="border-bottom:1px solid #1111">Last project</h3>
-
+</div>
+					 
 📄 **Fullstack Web App** 
 
 `` 🌏 Workflow 🌏 `` :
@@ -13,12 +19,14 @@
 JIRA ➕ SCRUM POKER ➕ GIT ➕ DISCORD
 ``
 
+					 
 | Part | Technologies |
 | --- | --- |
 | Frontend | React, TypeScript, Axios, Bootstrap, SweetAlert, Font Awesome|
 | Backend | Node.js, Sequelize, Nodemailer, JWT, PostgreSQL, Express, Jest, Bcrypt, Nodemon|
 
 
+				 
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display:flex;">
@@ -64,5 +72,7 @@ JIRA ➕ SCRUM POKER ➕ GIT ➕ DISCORD
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
+```java
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hlisnikowski&theme=horizon&date_format=j%20M%5B%20Y%5D" alt="hlisnikowski" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hlisnikowski&theme=horizon&date_format=j%20M%5B%20Y%5D" alt="hlisnikowski" /></p>
