@@ -73,5 +73,5 @@ JIRA ➕ SCRUM POKER ➕ GIT ➕ DISCORD
 
 ```java
 ```
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hlisnikowski&theme=horizon&date_format=j%20M%5B%20Y%5D" alt="hlisnikowski" /></p>
+<p align="center"><img align="center" src="https://www.codewars.com/users/hlisnikowski/badges/large"></p>
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hlisnikowski&theme=horizon&date_format=j%20M%5B%20Y%5D" alt="hlisnikowski" /></p>
