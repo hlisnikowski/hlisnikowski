@@ -12,13 +12,12 @@
 <h3 style="border-bottom:1px solid #1111">Last project</h3>
 </div>
 					 
-📄 **Fullstack Web App** 
+📄 **Fullstack Web App**  
 
 `` 🌏 Workflow 🌏 `` :
 ``
-JIRA ➕ SCRUM POKER ➕ GIT ➕ DISCORD
-``
-
+JIRA ➕ SCRUM POKER ➕ GIT ➕ DISCORD 
+`` ‎ ‎ <a href="https://www.youtube.com/watch?v=TYvwSEom6s8&t=373s" ><img align="center" src="https://img.shields.io/badge/PROJECT%20PREVIEW-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 					 
 | Part | Technologies |
 | --- | --- |
